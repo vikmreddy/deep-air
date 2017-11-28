@@ -1,0 +1,5 @@
+lstm_encoder_decoder.png: https://github.com/farizrahman4u/seq2seq
+many_to_many.jpg: https://i.stack.imgur.com/b4sus.jpg
+sae.jpg: http://www.slideshare.net/anastasiiakornilova/neural-networks-and-deep-learn
+seq_ae.jpg: https://www.slideshare.net/tw_dsconf/ss-78795326
+sparse_ae.jpg: http://ufldl.stanford.edu/wiki/index.php/Stacked_Autoencoders
