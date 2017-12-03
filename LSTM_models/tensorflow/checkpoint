@@ -1,0 +1,2 @@
+model_checkpoint_path: "multivariate_ts_pollution_case"
+all_model_checkpoint_paths: "multivariate_ts_pollution_case"
