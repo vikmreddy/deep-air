@@ -1,0 +1,12 @@
+This station inventory is now deprecated.  Please refer to the new 
+inventory found here:
+
+        ftp://ftp.ncdc.noaa.gov/pub/data/noaa/isd-inventory.txt
+
+The new inventory will be updated regularly.
+
+If you have questions about this change, please contact us using info 
+found here:
+
+        http://www.ncdc.noaa.gov/contact
+
